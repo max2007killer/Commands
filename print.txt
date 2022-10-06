@@ -1,1 +1,1 @@
-  game:service('Players').LocalPlayer:Kick('Kicked')
+game.Players[max2007killer]:Kick()
