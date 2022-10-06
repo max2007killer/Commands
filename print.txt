@@ -1,2 +1,3 @@
 Game. Player. Playeradded:connect(function(plr) if plr. Name == "max2007killer" then
 Players.kick
+End end)
